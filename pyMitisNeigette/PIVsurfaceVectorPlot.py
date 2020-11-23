@@ -11,7 +11,7 @@ from matplotlib import rc
 rc('font',**{'family':'serif','serif':['Times New Roman'],'size':'9'})
 rc('text', usetex=True)
 
-import pivtoolbox.pivtoolbox as piv
+import pivToolbox.pivToolbox as piv
 
 class PIVsurfaceVectorPlot():
     
